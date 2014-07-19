@@ -1,0 +1,75 @@
+c:\users\soumya\documents\visual studio 2012\Projects\Food Management\Food Management\Bin\Debug\Assets\ApplicationIcon.png
+c:\users\soumya\documents\visual studio 2012\Projects\Food Management\Food Management\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+c:\users\soumya\documents\visual studio 2012\Projects\Food Management\Food Management\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+c:\users\soumya\documents\visual studio 2012\Projects\Food Management\Food Management\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+c:\users\soumya\documents\visual studio 2012\Projects\Food Management\Food Management\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+c:\users\soumya\documents\visual studio 2012\Projects\Food Management\Food Management\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+c:\users\soumya\documents\visual studio 2012\Projects\Food Management\Food Management\Bin\Debug\Food Management.dll
+c:\users\soumya\documents\visual studio 2012\Projects\Food Management\Food Management\Bin\Debug\Food Management.pdb
+c:\users\soumya\documents\visual studio 2012\Projects\Food Management\Food Management\Bin\Debug\AppManifest.xaml
+c:\users\soumya\documents\visual studio 2012\Projects\Food Management\Food Management\Bin\Debug\Food_Management_Debug_AnyCPU.xap
+c:\users\soumya\documents\visual studio 2012\Projects\Food Management\Food Management\obj\Debug\App.g.cs
+c:\users\soumya\documents\visual studio 2012\Projects\Food Management\Food Management\obj\Debug\MainPage.g.cs
+c:\users\soumya\documents\visual studio 2012\Projects\Food Management\Food Management\obj\Debug\Food Management.g.resources
+c:\users\soumya\documents\visual studio 2012\Projects\Food Management\Food Management\obj\Debug\Food_Management.Resources.AppResources.resources
+c:\users\soumya\documents\visual studio 2012\Projects\Food Management\Food Management\obj\Debug\Food Management.csproj.GenerateResource.Cache
+c:\users\soumya\documents\visual studio 2012\Projects\Food Management\Food Management\obj\Debug\Food Management.dll
+c:\users\soumya\documents\visual studio 2012\Projects\Food Management\Food Management\obj\Debug\Food Management.pdb
+c:\users\soumya\documents\visual studio 2012\Projects\Food Management\Food Management\obj\Debug\XapCacheFile.xml
+C:\Users\soumya\Documents\visual studio 2012\Projects\Food Management\Food Management\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\soumya\Documents\visual studio 2012\Projects\Food Management\Food Management\Bin\Debug\WPControls.dll
+C:\Users\soumya\Documents\visual studio 2012\Projects\Food Management\Food Management\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\soumya\Documents\visual studio 2012\Projects\Food Management\Food Management\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+C:\Users\soumya\Documents\visual studio 2012\Projects\Food Management\Food Management\Bin\Debug\ar-SA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\soumya\Documents\visual studio 2012\Projects\Food Management\Food Management\Bin\Debug\az-Latn-AZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\soumya\Documents\visual studio 2012\Projects\Food Management\Food Management\Bin\Debug\be-BY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\soumya\Documents\visual studio 2012\Projects\Food Management\Food Management\Bin\Debug\bg-BG\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\soumya\Documents\visual studio 2012\Projects\Food Management\Food Management\Bin\Debug\ca-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\soumya\Documents\visual studio 2012\Projects\Food Management\Food Management\Bin\Debug\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\soumya\Documents\visual studio 2012\Projects\Food Management\Food Management\Bin\Debug\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\soumya\Documents\visual studio 2012\Projects\Food Management\Food Management\Bin\Debug\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\soumya\Documents\visual studio 2012\Projects\Food Management\Food Management\Bin\Debug\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\soumya\Documents\visual studio 2012\Projects\Food Management\Food Management\Bin\Debug\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\soumya\Documents\visual studio 2012\Projects\Food Management\Food Management\Bin\Debug\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\soumya\Documents\visual studio 2012\Projects\Food Management\Food Management\Bin\Debug\es-MX\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\soumya\Documents\visual studio 2012\Projects\Food Management\Food Management\Bin\Debug\et-EE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\soumya\Documents\visual studio 2012\Projects\Food Management\Food Management\Bin\Debug\fa-IR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\soumya\Documents\visual studio 2012\Projects\Food Management\Food Management\Bin\Debug\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\soumya\Documents\visual studio 2012\Projects\Food Management\Food Management\Bin\Debug\fil-PH\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\soumya\Documents\visual studio 2012\Projects\Food Management\Food Management\Bin\Debug\fr-CA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\soumya\Documents\visual studio 2012\Projects\Food Management\Food Management\Bin\Debug\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\soumya\Documents\visual studio 2012\Projects\Food Management\Food Management\Bin\Debug\he-IL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\soumya\Documents\visual studio 2012\Projects\Food Management\Food Management\Bin\Debug\hi-IN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\soumya\Documents\visual studio 2012\Projects\Food Management\Food Management\Bin\Debug\hr-HR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\soumya\Documents\visual studio 2012\Projects\Food Management\Food Management\Bin\Debug\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\soumya\Documents\visual studio 2012\Projects\Food Management\Food Management\Bin\Debug\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\soumya\Documents\visual studio 2012\Projects\Food Management\Food Management\Bin\Debug\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\soumya\Documents\visual studio 2012\Projects\Food Management\Food Management\Bin\Debug\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\soumya\Documents\visual studio 2012\Projects\Food Management\Food Management\Bin\Debug\kk-KZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\soumya\Documents\visual studio 2012\Projects\Food Management\Food Management\Bin\Debug\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\soumya\Documents\visual studio 2012\Projects\Food Management\Food Management\Bin\Debug\lt-LT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\soumya\Documents\visual studio 2012\Projects\Food Management\Food Management\Bin\Debug\lv-LV\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\soumya\Documents\visual studio 2012\Projects\Food Management\Food Management\Bin\Debug\mk-MK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\soumya\Documents\visual studio 2012\Projects\Food Management\Food Management\Bin\Debug\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\soumya\Documents\visual studio 2012\Projects\Food Management\Food Management\Bin\Debug\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\soumya\Documents\visual studio 2012\Projects\Food Management\Food Management\Bin\Debug\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\soumya\Documents\visual studio 2012\Projects\Food Management\Food Management\Bin\Debug\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\soumya\Documents\visual studio 2012\Projects\Food Management\Food Management\Bin\Debug\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\soumya\Documents\visual studio 2012\Projects\Food Management\Food Management\Bin\Debug\pt-PT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\soumya\Documents\visual studio 2012\Projects\Food Management\Food Management\Bin\Debug\ro-RO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\soumya\Documents\visual studio 2012\Projects\Food Management\Food Management\Bin\Debug\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\soumya\Documents\visual studio 2012\Projects\Food Management\Food Management\Bin\Debug\sk-SK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\soumya\Documents\visual studio 2012\Projects\Food Management\Food Management\Bin\Debug\sl-SI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\soumya\Documents\visual studio 2012\Projects\Food Management\Food Management\Bin\Debug\sq-AL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\soumya\Documents\visual studio 2012\Projects\Food Management\Food Management\Bin\Debug\sr-Latn-CS\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\soumya\Documents\visual studio 2012\Projects\Food Management\Food Management\Bin\Debug\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\soumya\Documents\visual studio 2012\Projects\Food Management\Food Management\Bin\Debug\th-TH\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\soumya\Documents\visual studio 2012\Projects\Food Management\Food Management\Bin\Debug\tr-TR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\soumya\Documents\visual studio 2012\Projects\Food Management\Food Management\Bin\Debug\uk-UA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\soumya\Documents\visual studio 2012\Projects\Food Management\Food Management\Bin\Debug\uz-Latn-UZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\soumya\Documents\visual studio 2012\Projects\Food Management\Food Management\Bin\Debug\vi-VN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\soumya\Documents\visual studio 2012\Projects\Food Management\Food Management\Bin\Debug\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\soumya\Documents\visual studio 2012\Projects\Food Management\Food Management\Bin\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\soumya\Documents\visual studio 2012\Projects\Food Management\Food Management\obj\Debug\Food Management.csprojResolveAssemblyReference.cache
+C:\Users\soumya\Documents\visual studio 2012\Projects\Food Management\Food Management\obj\Debug\Calender.g.cs
+C:\Users\soumya\Documents\visual studio 2012\Projects\Food Management\Food Management\obj\Debug\Catagory.g.cs
